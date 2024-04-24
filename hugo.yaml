@@ -1,0 +1,11 @@
+baseURL: 'https://example.org/'
+languageCode: 'uk-ua'
+title: 'Монологи із батьком'
+theme: hugo-book
+
+contentDir: content
+params:
+   BookToC: true
+   BookSearch: false
+#   BookDateFormat: "January 2, 2006"
+#   BookRepo: https://github.com/disfinder/disfinder.github.io
